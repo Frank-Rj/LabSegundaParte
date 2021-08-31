@@ -1,4 +1,6 @@
-﻿using System;
+﻿using LabSegundaParte.Entidades;
+using LabSegundaParte.Negocio;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -28,43 +30,8 @@ namespace LabSegundaParte
             Console.WriteLine(clspersona.esMayorDeEdad(persona));
             Console.WriteLine(persona.ToString());
 
-
             Console.ReadLine();
         }
-    }
-
-    internal class Persona
-    {
-        private string nombre;
-        private int edad;
-        private string sexo;
-        private double peso;
-        private double altura;
-
-        public Persona(string nombre, int edad, string sexo, double peso, double altura)
-        {
-            this.nombre = nombre;
-            this.edad = edad;
-            this.sexo = sexo;
-            this.peso = peso;
-            this.altura = altura;
-        }
-    }
-
-    internal class ClsPersona
-    {
-        public ClsPersona()
-        {
-        }
-
-        internal bool CalculoIMC(Persona persona)
-        {
-            throw new NotImplementedException();
-        }
-
-        internal bool esMayorDeEdad(Persona persona)
-        {
-            throw new NotImplementedException();
-        }
+    
     }
 }
