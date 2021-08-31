@@ -45,11 +45,11 @@ namespace LabSegundaParte.Entidades
         Persona persona = new Persona();
         public override string ToString()
         {
-            return "El nombre:" + persona.nombre +
-                "\n edad: " + persona.edad +
-                "\n sexo: " + persona.sexo +
-                "\npeso: " + persona.sexo +
-                "\naltura: " + persona.altura;
+            return "Nombre: " + nombre +
+                "\n Edad: " + edad +
+                "\n Sexo: " + sexo +
+                "\n Peso: " + peso +
+                "\n Altura: " + altura;
         }
     }
 }
