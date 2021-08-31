@@ -1,0 +1,7 @@
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\LabSegundaParte\LabSegundaParte\LabSegundaParte\obj\Debug\LabSegundaParte.csproj.AssemblyReference.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\LabSegundaParte\LabSegundaParte\LabSegundaParte\obj\Debug\LabSegundaParte.csproj.CoreCompileInputs.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\LabSegundaParte\LabSegundaParte\LabSegundaParte\bin\Debug\LabSegundaParte.exe.config
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\LabSegundaParte\LabSegundaParte\LabSegundaParte\bin\Debug\LabSegundaParte.exe
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\LabSegundaParte\LabSegundaParte\LabSegundaParte\bin\Debug\LabSegundaParte.pdb
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\LabSegundaParte\LabSegundaParte\LabSegundaParte\obj\Debug\LabSegundaParte.exe
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\LabSegundaParte\LabSegundaParte\LabSegundaParte\obj\Debug\LabSegundaParte.pdb

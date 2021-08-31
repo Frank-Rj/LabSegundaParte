@@ -42,7 +42,7 @@ namespace LabSegundaParte.Entidades
             this.peso = peso;
             this.altura = altura;
         }
-        Persona persona = new Persona();
+        
         public override string ToString()
         {
             return "Nombre: " + nombre +
